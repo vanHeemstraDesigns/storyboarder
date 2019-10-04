@@ -37,14 +37,15 @@ Click on the server you just launched, and you will find a “Terminal” button
 
 ![Details](https://github.com/vanHeemstraDesigns/storyboarder/blob/master/LinuxAcademy_Server_Storyboarder_Details.PNG)
 
-Once your in-browser terminal loads, it will ask you for your username and then for your password. You will find your credentials under the “Credentials” section, as pictured below:
-
-- image
+Once your in-browser terminal loads, it will ask you for your username and then for your password. You will find your credentials under the “Credentials” section, as pictured above.
 
 Please keep in mind that your temporary password will be different than the one pictured above, so copy it directly from your screen.
 Also note that even though you don’t see it on the screen, keystrokes are being registered when you type in your password. It’s not visible for extra security measures, because that way you can’t see the letters or the length of the password being typed. So again, don’t worry if you are typing your password and nothing appears to be happening — it’s definitely registering the keystrokes!
+
 Once you log in, it will immediately ask you to change your password. It does this by asking you to first enter the current password (the one you just entered from the “Temp. Password.”). Only then will it ask you to enter the new password, and it will ask you to confirm a second time.
+
 That’s it! You’ve now created your own custom password which you will use to login and to access admin privileges on this server going forward. Don’t forget this password!
+
 Great, we’re now ready to type commands and play around!
 
 ### Step 3
