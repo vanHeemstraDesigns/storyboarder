@@ -22,7 +22,7 @@ To get started, click on the Cloud Playground icon in the top navigation menu.
 
 Follow the instructions on-screen to create your first server. Please select Ubuntu 14 Trusty Tahr LTS as the distribution, otherwise, some of the commands used in this guide won’t work properly.
 
-![Playground](https://github.com/vanHeemstraDesigns/storyboarder/raw/master/LinuxAcademy_Playground.PNG)
+![Playground](https://github.com/vanHeemstraDesigns/storyboarder/blob/master/LinuxAcademy_New_Server.PNG)
 
 Once you’ve completed the rest of the steps in the on-screen walkthrough, your server will be launching. Once the server is “READY” we can go ahead and log into it to complete the rest of this guide.
 
