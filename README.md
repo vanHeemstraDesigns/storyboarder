@@ -30,6 +30,6 @@ Follow the instructions on-screen to create your first server. Please select Cen
 
 Once you’ve completed the rest of the steps in the on-screen walkthrough, your server will be launching. Once the server is “READY” we can go ahead and log into it to complete the rest of this guide.
 
-![Playground](https://github.com/vanHeemstraDesigns/storyboarder/blob/master/Screenshot-2019-05-22-14.57.36.png)
+![Playground](https://github.com/vanHeemstraDesigns/storyboarder/blob/master/LinuxAcademy_Server_Storyboarder_Ready.PNG)
 
 ### Step 2
