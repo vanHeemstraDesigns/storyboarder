@@ -44,6 +44,8 @@ Also note that even though you don’t see it on the screen, keystrokes are bein
 
 Once you log in, it will immediately ask you to change your password. It does this by asking you to first enter the current password (the one you just entered from the “Temp. Password.”). Only then will it ask you to enter the new password, and it will ask you to confirm a second time.
 
+![Login Prompt](https://github.com/vanHeemstraDesigns/storyboarder/blob/master/LinuxAcademy_Server_Storyboarder_Login_Prompt.PNG)
+
 That’s it! You’ve now created your own custom password which you will use to login and to access admin privileges on this server going forward. Don’t forget this password!
 
 Great, we’re now ready to type commands and play around!
