@@ -25,17 +25,17 @@ To get started, click on the Cloud Playground icon in the top navigation menu.
 
 Follow the instructions on-screen to create your first server. Please select CentOS as the distribution, otherwise, some of the commands used in this guide won’t work properly.
 
-![Playground](https://github.com/vanHeemstraDesigns/storyboarder/blob/master/LinuxAcademy_New_Server.PNG)
+![New Server](https://github.com/vanHeemstraDesigns/storyboarder/blob/master/LinuxAcademy_New_Server.PNG)
 
 Once you’ve completed the rest of the steps in the on-screen walkthrough, your server will be launching. Once the server is “READY” we can go ahead and log into it to complete the rest of this guide.
 
-![Playground](https://github.com/vanHeemstraDesigns/storyboarder/blob/master/LinuxAcademy_Server_Storyboarder_Ready.PNG)
+![Ready](https://github.com/vanHeemstraDesigns/storyboarder/blob/master/LinuxAcademy_Server_Storyboarder_Ready.PNG)
 
 ### Step 2 – Log into the server
 
 Click on the server you just launched, and you will find a “Terminal” button towards the bottom. This will open an in-browser terminal for you to log into this server, so go ahead and click it. The great thing about this in-browser terminal is that it bypasses restrictions that corporate firewalls typically have, so you can learn on the job without restriction.
 
-- image
+![Details](https://github.com/vanHeemstraDesigns/storyboarder/blob/master/LinuxAcademy_Server_Storyboarder_Details.PNG)
 
 Once your in-browser terminal loads, it will ask you for your username and then for your password. You will find your credentials under the “Credentials” section, as pictured below:
 
