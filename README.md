@@ -52,4 +52,6 @@ That’s it! You’ve now created your own custom password which you will use to
 
 Great, we’re now ready to type commands and play around!
 
-### Step 3
+### Step 3 - Download and Install Storyboarder
+
+... to be continued
