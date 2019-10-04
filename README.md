@@ -56,7 +56,7 @@ Great, we’re now ready to type commands and play around!
 
 Storyboarder can be downloaded from either their web site at https://wonderunit.com/storyboarder/ or directly from their Github repository (e.g. https://github.com/wonderunit/storyboarder/releases/download/v1.14.0/storyboarder-setup-1.14.0.exe)
 
-For here, browse the Github repository at https://github.com/wonderunit/storyboarder/releases/download/
+For here, browse the Github repository at https://github.com/wonderunit/storyboarder/releases/ to select the right version for the OS (here: *latest-linux.yml*)
 
 
 
