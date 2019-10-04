@@ -7,7 +7,11 @@ Storyboarder is a free tool to create storyboards.
 
 This repository describes how to run it using a Linux vm in Linux Academy
 
-... to be continued
+- Browse to https://linuxacademy.com/
+
+- Login with your account (otherwise sign up first)
+
+You will be forwarded to the Dashboard at https://app.linuxacademy.com/dashboard
 
 ## Installing Storyboarder on a virtual machine (vm) on Linux Academy
 
