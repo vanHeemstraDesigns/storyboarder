@@ -48,6 +48,8 @@ Once you log in, it will immediately ask you to change your password. It does th
 
 That’s it! You’ve now created your own custom password which you will use to login and to access admin privileges on this server going forward. Don’t forget this password!
 
+![Logged In](https://github.com/vanHeemstraDesigns/storyboarder/blob/master/LinuxAcademy_Server_Storyboarder_Logged_In.PNG)
+
 Great, we’re now ready to type commands and play around!
 
 ### Step 3
