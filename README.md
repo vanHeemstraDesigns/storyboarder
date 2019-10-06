@@ -58,6 +58,14 @@ Storyboarder can be downloaded from either their web site at https://wonderunit.
 
 For here, browse the Github repository at https://github.com/wonderunit/storyboarder/releases/ to select the right version for the OS (here: *latest-linux.yml*)
 
+Instead of either installing a binary file or from source, Storyboarder has a so-called AppImage. Hence, we will use this file to install Storyboarder. Follow below instructions:
+
+#### Install using AppImage
+
+Based on "How To Use AppImage in Linux [Complete Guide]" at https://itsfoss.com/use-appimage-linux/
+
+
+
 
 
 ... to be continued
