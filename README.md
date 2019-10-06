@@ -64,6 +64,43 @@ Instead of either installing a binary file or from source, Storyboarder has a so
 
 Based on "How To Use AppImage in Linux [Complete Guide]" at https://itsfoss.com/use-appimage-linux/
 
+There are ways to install software in Ubuntu or any other Linux distribution. Downloading .deb or .rpm files and double click on them to install software is one of the most convenient way to that.
+
+Recently, you might have noticed that some applications are downloaded with an extension .appimage. And you may wonder what are these .appimage files.
+
+Next shows you what is an AppImage and how to use AppImage to install applications in Linux. In addition to that, I will also tell you a few things that you should keep in mind while using AppImage.
+
+##### A. What is AppImage
+
+For years, we have DEB packages for Debian/Ubuntu based Linux distributions and RPM for Fedora/SUSE based Linux distributions.
+
+While these packages provide a convenient way of installing software to their respective distribution users, it is not the most convenient for the application developer. The developers have to create multiple packages for multiple distributions. This is where AppImage comes into picture.
+
+[AppImage](http://appimage.org/) is a universal software package format. By packaging the software in AppImage, the developer provides just one file ‘to rule them all’. End user, i.e. you, can use it in most (if not all) modern Linux distributions.
+
+*AppImage doesn’t install software in the traditional way*
+
+A typical Linux software will create files at various places, requiring root permission to make these changes to the system.
+
+AppImage doesn’t do it. In fact, AppImage doesn’t really install the software. It is a compressed image with all the dependencies and libraries needed to run the desired software.
+ 
+You execute the AppImage file, you run the software. There is no extraction, no installation. You delete the AppImage file, the software is removed (we’ll see about it later). You can compare it to .exe files in Windows that allow you to run the software without actually going through the installation procedure.
+
+Let me list some of the features or benefits of AppImage.
+
+*AppImage features*
+
+- Distribution agnostic: Can run on various different Linux distributions
+- No need of installing and compiling software: Just click and play
+- No need of root permission: System files are not touched
+- Portability: Can be run anywhere including live disks
+- Apps are in read only mode
+- Software are removed just by deleting the AppImage file
+- Applications packaged in AppImage are not [sandboxed](https://en.wikipedia.org/wiki/Sandbox_(computer_security)) by default.
+
+##### B. How to use AppImage in Linux
+
+
 
 
 
