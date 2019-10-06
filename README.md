@@ -100,8 +100,18 @@ Let me list some of the features or benefits of AppImage.
 
 ##### B. How to use AppImage in Linux
 
+Using AppImage is fairly simple. It is done in these 3 simple steps:
 
+- Download AppImage file
+- Make it executable
+- Run it
 
+Don’t worry, I’ll show you how to run AppImage in details. I am using CentOS in this AppImage tutorial but you can use the same steps on other Linux distributions as well. After all, the entire point of AppImage is to be independent of the distributions.
+
+##### Step 1: Download .appimage package
+There are plenty of software that are available in AppImage format. GIMP, Krita, Scribus and OpenShot are just a few names. You can find an extensive list of applications available in AppImage format [here](https://github.com/AppImage/AppImageKit/wiki/AppImages).
+
+I will be using *Storyboarder* in this tutorial. You can download it from its [website](https://wonderunit.com/storyboarder/).
 
 
 
