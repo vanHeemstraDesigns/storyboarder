@@ -149,7 +149,7 @@ Use the Graphical Shell in Linux Academy Playground of our server-storyboarder:
 
 If you prefer the graphical way, just right click on the downloaded .appimage file and select Properties.
 
-- SCREENSHOT HERE -
+![Allow Executing File as Program](Allow_Executing_File_as_Program.PNG)(
 
 In the next screen, go to the Permissions tab and check the box that says “Allow executing file as program”.
 
