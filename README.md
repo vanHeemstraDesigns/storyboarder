@@ -143,6 +143,10 @@ wget https://github.com/wonderunit/storyboarder/releases/download/v1.14.0/Storyb
 
 By default, the downloaded AppImage file won’t have the execution permission. You’ll have to change the permission on the file to make it executable. You don’t need root privilege to do that.
 
+Use the Graphical Shell in Linux Academy Playground of our server-storyboarder:
+
+![Graphical Shell](Graphical_Shell.PNG)
+
 If you prefer the graphical way, just right click on the downloaded .appimage file and select Properties.
 
 - SCREENSHOT HERE -
@@ -199,6 +203,12 @@ Then try to run the Storyboarder AppImage again.
 ```
 ./Storyboarder-1.14.0-linux-x86_64.AppImage
 ```
+
+If all else fails, just use the Graphical Shell in Linux Academy Playground of our server-storyboarder:
+
+![Graphical Shell](Graphical_Shell.PNG)
+
+From the Home directory, open AppImages, then double-click Storyboarder.
 
 ##### C. How to uninstall AppImage software
 Since the software is never installed, there is no need of ‘uninstalling’ it. Just delete the associated AppImage file and your software is removed from the system.
