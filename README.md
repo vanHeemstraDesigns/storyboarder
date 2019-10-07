@@ -183,6 +183,23 @@ Suggestion:
 You should let your ssh-server forward x11 display
 update /etc/ssh/sshd_config and set X11Forwarding yes, then restart your ssh server
 
+```
+cd /etc/ssh/
+sudo vi sshd_config
+```
+
+In vi set X11Forwarding to yes, then save and close sshd_config with :qw! 
+
+![]()
+
+Restart the server for above changes to take effect.
+
+Then try to run the Storyboarder AppImage again.
+
+```
+./Storyboarder-1.14.0-linux-x86_64.AppImage
+```
+
 ##### C. How to uninstall AppImage software
 Since the software is never installed, there is no need of ‘uninstalling’ it. Just delete the associated AppImage file and your software is removed from the system.
 
