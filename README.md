@@ -210,6 +210,8 @@ If all else fails, just use the Graphical Shell in Linux Academy Playground of o
 
 From the Home directory, open AppImages, then double-click Storyboarder.
 
+![Graphical Shell AppImages Storyboarder](Graphical_Shell_AppImages_Storyboarder.PNG)
+
 ##### C. How to uninstall AppImage software
 Since the software is never installed, there is no need of ‘uninstalling’ it. Just delete the associated AppImage file and your software is removed from the system.
 
