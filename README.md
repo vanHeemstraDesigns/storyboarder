@@ -132,6 +132,9 @@ mkdir AppImages
 cd AppImages
 ```
 
+![Download Storyboarder AppImage](Download_Storyboarder_AppImage.PNG)
+
+
 ```
 wget https://github.com/wonderunit/storyboarder/releases/download/v1.14.0/Storyboarder-1.14.0-linux-x86_64.AppImage
 ```
