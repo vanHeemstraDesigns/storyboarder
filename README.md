@@ -176,7 +176,7 @@ One can run the AppImage directly from the command line as follows:
 
 What if you see following error:
 
-![]()
+![Failure to Run Storyboarder AppImage](Failure_to_Run_Storyboarder_AppImage.PNG)
 
 Suggestion:
 
