@@ -166,6 +166,14 @@ chmod u+x <AppImage File>
 
 Once you have made the AppImage file executable, just double click on it to run it. It will see the software running as you would have installed it on your system. Cool, isn’t it?
 
+One can run the AppImage directly from the command line as follows:
+
+```
+./Storyboarder-1.14.0-linux-x86_64.AppImage
+```
+
+![Run Storyboarder from ]()
+
 ##### C. How to uninstall AppImage software
 Since the software is never installed, there is no need of ‘uninstalling’ it. Just delete the associated AppImage file and your software is removed from the system.
 
