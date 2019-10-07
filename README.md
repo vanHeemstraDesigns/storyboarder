@@ -174,6 +174,15 @@ One can run the AppImage directly from the command line as follows:
 
 ![Run Storyboarder AppImage](Run_Storyboarder_AppImage.PNG)
 
+What if you see following error:
+
+![]()
+
+Suggestion:
+
+You should let your ssh-server forward x11 display
+update /etc/ssh/sshd_config and set X11Forwarding yes, then restart your ssh server
+
 ##### C. How to uninstall AppImage software
 Since the software is never installed, there is no need of ‘uninstalling’ it. Just delete the associated AppImage file and your software is removed from the system.
 
