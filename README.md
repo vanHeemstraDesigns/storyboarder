@@ -166,13 +166,13 @@ chmod u+x <AppImage File>
 
 Once you have made the AppImage file executable, just double click on it to run it. It will see the software running as you would have installed it on your system. Cool, isn’t it?
 
-C. How to uninstall AppImage software
+##### C. How to uninstall AppImage software
 Since the software is never installed, there is no need of ‘uninstalling’ it. Just delete the associated AppImage file and your software is removed from the system.
 
-D. Things to remember while using AppImage in Linux
+##### D. Things to remember while using AppImage in Linux
 There are few additional things about AppImage that you should know.
 
-1. Desktop integration
+###### 1. Desktop integration
 
 When you run AppImage file, some software may prompt you to ‘install a desktop file’.  If you select yes, your AppImage will be integrated with your Linux system like a regular installed application.
 
@@ -184,17 +184,17 @@ Which means that your software will be searchable through Unity or GNOME. You ca
 - SCREENSHOT HERE -
 Storyboarder after desktop integration
 
-2. Desktop integration may require manual cleanup post removal
+###### 2. Desktop integration may require manual cleanup post removal
 
 If you choose desktop integration, you’ll have a few files created in your system. The file size will only be in a few Kb though. When you delete the AppImage file, these desktop files remain in your system. You may leave it as it is or delete it manually.
 
-3. Choose where you put the AppImage files
+###### 3. Choose where you put the AppImage files
 
 The downloaded AppImage files should arrive in the Download folder. But this might not be the best place to keep it as it gets cluttered over time. It is better to keep them in a separate directory for easier management.
 
 Also keep in mind that if you chose desktop integration and then moved the AppImage file to some other location, you’ll have to remove the desktop files first. Else the desktop integration might not work.
 
-4. Update is not always an option
+###### 4. Update is not always an option
 
 Maybe some software will check for updates automatically and notify you about the availability of a newer version. But that’s not going to happen most of the time.
 
@@ -202,7 +202,7 @@ There is a command line option to check and update the software but that too dep
 
 In short, there is no automatic updates here. You’ll have to find your own if there is a newer version of the software available.
 
-Conclusion
+#### Conclusion
 
 There are other “universal Linux apps” such as Snap by Ubuntu and Flatpak by Fedora.  Since this article was about using AppImage, I didn’t go into the Snap vs Flatpak vs AppImage debate.
 
