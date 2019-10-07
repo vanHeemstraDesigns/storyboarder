@@ -160,7 +160,7 @@ Alternatively, if you prefer the command line, you can simply use chmod u+x <App
 chmod u+x <AppImage File>
 ```
 
-= EXPLAIN HERE HOW TO MAKE STORYBOARDER EXECUTABLE ON OUR VM =
+![Make Storyboarder AppImage Executable](Make_Storyboarder_AppImage_Executable.PNG)
 
 ##### Step 3: Run the AppImage file
 
