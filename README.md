@@ -116,6 +116,23 @@ I will be using *Storyboarder* in this tutorial. You can download it from its [w
 
 = EXPLAIN HERE HOW TO DOWNLOAD STORYBOARDER ON OUR VM =
 
+The URL to browse for the version of and Operating System supported by Storyboarder is: https://github.com/wonderunit/storyboarder/releases/
+
+Browse to the downloads, we pick the following as an example:
+
+https://github.com/wonderunit/storyboarder/releases/download/v1.14.0/Storyboarder-1.14.0-linux-x86_64.AppImage
+
+To download above version on our Linux CentOS server, run the following command on that server:
+
+```
+mkdir /appImages
+cd /appImages
+wget https://github.com/wonderunit/storyboarder/releases/download/v1.14.0/Storyboarder-1.14.0-linux-x86_64.AppImage
+```
+
+more ...
+
+
 ##### Step 2: Make it executable
 
 By default, the downloaded AppImage file won’t have the execution permission. You’ll have to change the permission on the file to make it executable. You don’t need root privilege to do that.
