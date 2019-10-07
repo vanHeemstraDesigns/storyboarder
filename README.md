@@ -139,10 +139,6 @@ cd AppImages
 wget https://github.com/wonderunit/storyboarder/releases/download/v1.14.0/Storyboarder-1.14.0-linux-x86_64.AppImage
 ```
 
-
-more ...
-
-
 ##### Step 2: Make it executable
 
 By default, the downloaded AppImage file won’t have the execution permission. You’ll have to change the permission on the file to make it executable. You don’t need root privilege to do that.
