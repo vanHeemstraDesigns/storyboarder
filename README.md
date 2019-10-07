@@ -190,7 +190,7 @@ sudo vi sshd_config
 
 In vi set X11Forwarding to yes, then save and close sshd_config with :qw! 
 
-![]()
+![XForwarding Yes](XForwarding_Yes.PNG)
 
 Restart the server for above changes to take effect.
 
