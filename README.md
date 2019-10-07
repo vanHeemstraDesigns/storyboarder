@@ -124,11 +124,18 @@ https://github.com/wonderunit/storyboarder/releases/download/v1.14.0/Storyboarde
 
 To download above version on our Linux CentOS server, run the following command on that server:
 
+![Create AppImages Directory](Create_AppImages_Directory.PNG)
+
 ```
-mkdir /appImages
-cd /appImages
+cd ~
+mkdir AppImages
+cd AppImages
+```
+
+```
 wget https://github.com/wonderunit/storyboarder/releases/download/v1.14.0/Storyboarder-1.14.0-linux-x86_64.AppImage
 ```
+
 
 more ...
 
